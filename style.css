@@ -1,0 +1,23 @@
+body {
+	background-color: orange;
+}
+
+h1 {
+	background-color:black;
+	text-align: center;
+	color:white;
+	padding-bottom: 20px;
+}
+
+.info {
+	width:1350px;
+}
+.about {
+	width:70%;
+	float: left;
+}
+
+.contact{
+	width:30%;
+	float:right;
+}
